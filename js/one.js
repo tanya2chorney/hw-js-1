@@ -7,6 +7,9 @@ console.log(myName);
 const isStudent = true;
 console.log(isStudent);
 
+const myString = "It is risky to live, you can die";
+console.log(myString);
+
 let myNumber = 15;
 // let = 25;
 console.log(myNumber);
