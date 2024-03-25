@@ -11,7 +11,7 @@ const myString = "It is risky to live, you can die";
 console.log(myString);
 
 let myNumber = 15;
-// let = 25;
+myNumber = 25;
 console.log(myNumber);
 
 const myNull = null;
