@@ -35,7 +35,7 @@ console.log(number = Math.floor(number));
 
 // Завдання №6
 
-let numberFloat = "15,588";
+let numberFloat = "15.588";
 console.log(numberFloat = parseFloat( numberFloat));
 
 // Завдання №7
