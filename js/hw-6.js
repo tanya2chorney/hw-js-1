@@ -6,13 +6,13 @@
 // }
 
 // // Завдання 2
-// let allNumbers = 21;
-// for(let i = 1; i < allNumbers; i ++ ){
-//     if(i % 2 === 3){
-//         continue;
-//     }
-//     console.log('парне число:',i)
-// }
+let allNumbers = 21;
+for(let i = 1; i < allNumbers; i ++ ){
+    if(i % 2 !== 0){
+        continue;
+    }
+    console.log('парне число:',i)
+}
 
 // // Завдання 3 
 // let multiplier = 11;
