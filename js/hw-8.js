@@ -24,3 +24,7 @@ cards.splice(2, 1);
 // Додавання
 cards.splice(4, 0, 'Картка - 6')
 console.log(cards);
+// Оновлення
+console.log(cards.indexOf('Картка - 4'));
+cards[2] = 'Картка - х';
+console.log(cards);
