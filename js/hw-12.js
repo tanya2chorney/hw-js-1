@@ -64,14 +64,14 @@ const countTotalSalary = function (salariesEmployees) {
 const result3 = countTotalSalary(salariesEmployees);
 console.log(result3);
 
-
+// Завдання 5
 const arr = [
     { prop: 'Ноутбук', price: 1000, available: true },
     { prop: 'Мишка', price: 300, available: false },
     { prop: 'Клавіатура', price: 350, available: true },
     { prop: 'Монітор', price: 2000, available: false },
   
-]
+];
 
 function getAllPropValues(arr, prop) {
     const propValues = [];
