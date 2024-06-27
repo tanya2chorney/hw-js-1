@@ -72,3 +72,20 @@ const usersAge = [
 ];
 const age = usersAge.filter(user => user.age >= 6 && user.age <= 15);
 console.log(age);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
