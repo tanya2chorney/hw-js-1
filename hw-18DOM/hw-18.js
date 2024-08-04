@@ -49,4 +49,4 @@ images.forEach((img) => {
     itemImg.src = img.url;
     itemImg.alt = img.alt;
 });
-console.log(galleryList)
+console.log(galleryList);
